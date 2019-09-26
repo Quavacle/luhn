@@ -8,7 +8,7 @@ Ruby 2.5.3
 RSpec 3.8.2
 
 Installation:
-(Note, this file assumes that a working version of Ruby is already installed)
+(Note, this file assumes that a working version of Ruby is already installed) /n
 Download all files
 CD to directory
 Install dependencies and RSpec:
